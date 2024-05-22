@@ -1,7 +1,7 @@
 # Unified Naming Standard
 
 <p align="center">
-  <img src="images/logo.webp" onload="if (new Date().getMonth() === 3 && new Date().getDate() === 1) { this.src = 'images/logo_april_fools.webp'; }" />
+  <img src="images/logo.webp" width="256" height="256" onload="if (new Date().getMonth() === 3 && new Date().getDate() === 1) { this.src = 'images/logo_april_fools.webp'; }" />
 </p>
 
 Unified Naming Standard (short UNS), is a unified scripting API inspire by [UNC](https://github.com/unified-naming-convention/NamingStandard) for our loved developers who put their hard work and alot of their time to reverse engineer roblox games and create the scripts we all know and love 💘
