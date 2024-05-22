@@ -47,7 +47,7 @@ NOTICE: If you, as a product owner, support >=80% of the functions, you are allo
 
 ## Checking your environment
 
-You can run the UNC environment checking script to see how well your executor environment supports the UNC standard. Find the script [here](EnvCheck.luau) or [here.](EnvCheck.luau) The script determines what is missing, and writes the results to the in-built developer console of roblox.
+You can run the UNC environment checking script to see how well your executor environment supports the UNC standard. Find the script [here](EnvCheck.luau) or [here.](releases/latest) The script determines what is missing, and writes the results to the in-built developer console of roblox.
 
 ## Contributing
 Go [here](CONTRIBUTING.md) for a guide on contributing.
